@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492664951488",
+    "firebase_url": "https://paintbot-48ab2-default-rtdb.firebaseio.com",
+    "project_id": "paintbot-48ab2",
+    "storage_bucket": "paintbot-48ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492664951488:android:9797c9a52196437b981325",
+        "android_client_info": {
+          "package_name": "com.hussein.painter_robot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492664951488-tl7ktpbes09s520l7n4i1pnshjdeln56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxW3rFhuAPhTtXkeEssBX_iNViUJ-wi5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492664951488-tl7ktpbes09s520l7n4i1pnshjdeln56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
